@@ -24,13 +24,3 @@ I specialize in building robust, scalable data platforms that bridge the gap bet
 | **Orchestration** | Airflow, Dagster, Argo Workflows |
 | **Languages** | Scala, Python (PySpark), Java, SQL |
 | **Storage & Lakes** | Delta Lake, Iceberg, Hudi |
-
----
-
-## 📈 Engineering Focus & Research
-Currently, I am deep-diving into:
-- **Cost Optimization:** Reducing cloud spend by implementing Spot Instance strategies and gravitating toward **Iceberg** for better metadata management.
-- **Spark Internals:** Mastering memory management, Tungsten execution, and Custom Catalyst Optimizer rules.
-- **Data Governance:** Implementing automated Data Quality (Great Expectations) and Lineage (OpenLineage).
-
-*"In God we trust; all others must bring (clean) data."*
